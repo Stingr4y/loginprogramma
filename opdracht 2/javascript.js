@@ -25,7 +25,7 @@ var leerlingen = [
 	["1013045","Mike van Waas", 		"1013045"],
 	["1015533","Frank van Woerden", 	"1015533"],
 	["Admin", "Admin", "Admin"]
-	];
+	];//comment
 
 var myArray = [];
 
