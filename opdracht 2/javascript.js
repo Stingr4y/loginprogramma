@@ -146,3 +146,4 @@ function resetww(){
 
 	localStorage.setItem("npass", npass)
 }
+//comment
